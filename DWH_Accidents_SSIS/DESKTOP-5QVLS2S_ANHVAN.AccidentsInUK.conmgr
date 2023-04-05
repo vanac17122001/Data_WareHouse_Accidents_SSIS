@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-5QVLS2S_ANHVAN.AccidentsInUK"
+  DTS:DTSID="{9999102A-6AC0-4D9A-B879-59B3EC68CB18}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-5QVLS2S\ANHVAN;Initial Catalog=AccidentsInUK;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-DWH_Accidents_SSIS-{9999102A-6AC0-4D9A-B879-59B3EC68CB18}DESKTOP-5QVLS2S\ANHVAN.AccidentsInUK;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
