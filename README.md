@@ -6,5 +6,5 @@
     <img src="img/Flow_ETL.png" />
 - Link access to SSAS và SSRS + Power BI for for analysis and reporting purposes
     + <a href="https://github.com/vanac17122001/Accident_In_UK_SSAS">Link to SSAS project</a>
-    + <a href="https://github.com/vanac17122001/Accidents_In_UK_SSRS_PowerBI">Link to SSAS project</a>
+    + <a href="https://github.com/vanac17122001/Accidents_In_UK_SSRS_PowerBI">Link to SSRS, and Power BI project</a>
 - Reference: https://www.youtube.com/watch?v=Ncz72eZrpHQ&t=1s&ab_channel=SoanTr%E1%BA%A7n , Quá trình SSIS - Môn kho dữ liệu và OLAP., Soan Trần
