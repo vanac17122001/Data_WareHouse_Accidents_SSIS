@@ -1,7 +1,7 @@
 # Using SQL Server Integration Services to ETL data from CSV files to Data Warehouse in SQL Server.
 
 - Data: Accidents in UK from 2005 to 2015. Data is csv file.
-    <a href="https://www.kaggle.com/datasets/silicon99/dft-accident-data?resource=download">Lnk to data</a>
+    <a href="https://www.kaggle.com/datasets/silicon99/dft-accident-data?resource=download">Link to data</a>
 - Image of flow ETL
     <img src="img/Flow_ETL.png" />
 - Link access to SSAS và SSRS + Power BI for for analysis and reporting purposes
